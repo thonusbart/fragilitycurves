@@ -1,2 +1,0 @@
-# fragilitycurves
-fragilitycurves
